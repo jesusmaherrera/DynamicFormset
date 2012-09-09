@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/demo/templates/example
+END
+form-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/demo/templates/example/form-template.html
+END
+formset-table.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/demo/templates/example/formset-table.html
+END
+posted-data.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/demo/templates/example/posted-data.html
+END
+formset-admin-widget.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/demo/templates/example/formset-admin-widget.html
+END
+formset-multiple-formsets.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/demo/templates/example/formset-multiple-formsets.html
+END
+inline-formset-autocomplete.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/demo/templates/example/inline-formset-autocomplete.html
+END
+formset-stacked.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/demo/templates/example/formset-stacked.html
+END
+inline-formset.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/demo/templates/example/inline-formset.html
+END
